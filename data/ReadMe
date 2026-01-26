@@ -1,0 +1,20 @@
+This dataset integrates and standardizes multiple cross-sectional household food security surveys conducted twice a year to support the Cadre Harmonisé process in West Africa. The surveys are carried out in two waves each year:
+
+First wave: Conducted before the start of the lean season (around February-March)
+Second wave: Conducted at the end of the lean season or beginning of the harvesting period (around September-October)
+These large-scale surveys are generally representative at the second-tier administrative level and capture data on the access and stability dimensions of food security. Key indicators include:
+
+Food Consumption Score (FCS)
+Household Dietary Diversity Score (HDDS)
+Coping behaviors
+Additionally, this dataset is further augmented with information on several covariate shocks that took place in each second-level administrative area in the period between two subsequent surveys. The different covariate shocks added to the dataset relate to five shock domains:
+
+Conflict and political violence
+Food price anomalies
+Long-term climate hazards
+Rainy season performance
+Extreme weather events
+This comprehensive dataset provides valuable insights into food security and household coping strategies in Burkina Faso, enriched with data on various shocks impacting food security.
+
+
+Marivoet, Wim; and Hema, Aboubacar. 2024. Integrated and enhanced datasets on food security and household coping strategies in the G5 Sahel Countries (2018-2023). Initiative on Fragility, Conflict, and Migration - Metadata report. Washington, DC: International Food Policy Research Institute.handle: 10568/158183
